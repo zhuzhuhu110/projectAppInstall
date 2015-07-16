@@ -25,6 +25,7 @@
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>url</key>
+	<string>https://121.40.204.231:10003/SigTest.ipa</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
